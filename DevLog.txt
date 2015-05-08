@@ -1,0 +1,29 @@
+April 22/2014
+- Whoops, forgot to document stuff! It's tough getting back into the habit!
+- To sum it all up:
+	- Score was implemented. Both sides have points that can be reset.(font_bold.ttf)
+	- The "Reset" button works now.
+	- Particle effects! Whenever the ball collides, some particles are spawned, and it looks dope!
+	- Ball "ghosts". Adds the trail you see behind the ball.
+- Collision needs to be fixed... the ball keeps on going right through paddles!
+- Annnnd I fixed collisions! :) I saved the coordinates before the ball->Update() and after, and then used those to check if DURING that update, any collisions happened. The physics are now pretty solid, even at quite high speeds!
+
+April 17/2014
+- I'm having second thoughts about my Screen setup..
+- Also, the screens reference Game directly. I might have to change that.
+- Finally, the right paddle's position will have to be set in Game, so it is always correct. (or something more drastic)
+
+April 16/2014
+- So I downloaded a font. Let's see if we can get sdl_ttf working...
+- Wow. That intro screen looks magnificent now! :D
+
+April 15/2014
+- Finished(ish) my term project for tonight, so time to work!
+- Small changes to PaddleBrain (added Paddle and Ball to the constructor)
+- Basic Ai implemented! It's perfect! ...too perfect.
+
+April 13/2014
+- Started the log! Woot!
+- Almost at the Borquin exchange, so I'll be brief
+- We need double buffering. Like, 100%.
+- Also, we need... *got to the exchange... I don't remember what I was about to say*
