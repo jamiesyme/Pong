@@ -7,8 +7,8 @@ Currently, there is only one AI mode: super hard. It's possible to score, but I'
 
 Here are some screenshots, for those of you interested:
 
-![Intro Screen](Screenshot_intro.png)
+![Intro Screen](Screenshot_intro.png "Intro Screen")
 
-![Game Screen](Screenshot_game.png)
+![Gameplay Screen](Screenshot_game.png "Gameplay Screen")
 
-![Pause Screen](Screenshot_menu.png)
+![Pause Menu Screen](Screenshot_menu.png "Pause Menu Screen")
